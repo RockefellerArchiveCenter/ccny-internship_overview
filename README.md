@@ -1,4 +1,4 @@
-# Docs template
+# RAC-CCNY Internship Program Overview
 A template for docs.rockarch.org documentation repositories. Include a short description of the documentation.
 
 ## Accessing the documentation
