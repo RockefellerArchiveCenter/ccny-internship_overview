@@ -1,4 +1,4 @@
 ---
 layout: docs
-title:  "Documentation Title"
+title:  "RAC-CCNY Internship Program Overview"
 ---
