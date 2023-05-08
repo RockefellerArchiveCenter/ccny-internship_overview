@@ -1,5 +1,5 @@
 # RAC-CCNY Internship Program Overview
-A template for docs.rockarch.org documentation repositories. Overview of the internship program.
+Overview of the internship program.
 
 ## Accessing the documentation
 This content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
