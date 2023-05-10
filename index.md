@@ -20,20 +20,20 @@ We strive to integrate the following core archival competencies throughout the i
 
 ## Core Competencies
 
-*	Ethics and values of the archival profession 
-Interns learn about the profession’s ethics and values and how they inform decision making when identifying, preserving, and making documents accessible through professional resources, staff meetings, and during project check-ins.
+**Ethics and values of the archival profession** 
+* Interns learn about the profession’s ethics and values and how they inform decision making when identifying, preserving, and making documents accessible through professional resources, staff meetings, and during project check-ins.
 
-*	Arrangement and description of records
-Interns are exposed to theory, methods, and policies when processing small collections, participating in the creation of archival exhibits, culturally competent description projects, inventorying multimedia collections, and through staff interactions and suggested readings.
+**Arrangement and description of records**
+* Interns are exposed to theory, methods, and policies when processing small collections, participating in the creation of archival exhibits, culturally competent description projects, inventorying multimedia collections, and through staff interactions and suggested readings.
 
-*	Preservation
-Interns are introduced to the protection of documents through staff demonstrations, curated videos, and participating in preservation treatments. 
+**Preservation**
+* Interns are introduced to the protection of documents through staff demonstrations, curated videos, and participating in preservation treatments. 
 
-*	Digital records and access systems
-Interns are exposed to a variety of archival formats and will learn about different management systems to facilitate access to documents by participating in projects related to metadata, adding and correcting citations and hyperlinks, and user testing. 
+**Digital records and access systems**
+* Interns are exposed to a variety of archival formats and will learn about different management systems to facilitate access to documents by participating in projects related to metadata, adding and correcting citations and hyperlinks, and user testing. 
 
-*	Outreach and advocacy
-Interns participate in programs and projects that promote visibility and use of archives for a range of audiences through education outreach projects, social media campaigns, video creation, and participating in professional networking. 
+**Outreach and advocacy**
+* Interns participate in programs and projects that promote visibility and use of archives for a range of audiences through education outreach projects, social media campaigns, video creation, and participating in professional networking. 
 
 ## Intern Projects
 
