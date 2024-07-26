@@ -1,9 +1,6 @@
 public: true
 type: "docs"
-category: "reference and outreach"
-tags:
- - "policy"
-title: "RAC-CCNY Internship Program Overview"
+title: "Internship Program Overview"
 description: "A Descripiton of the RAC-CCNY Internship Program."
 pages:
-  - ["RAC-CCNY Internship Program Overview", "index"]
+  - ["Internship Program Overview", "index"]
