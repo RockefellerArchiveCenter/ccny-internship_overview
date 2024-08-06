@@ -1,7 +1,9 @@
 ---
 layout: docs
-title:  "RAC-CCNY Internship Program Overview"
+title:  "Internship Program Overview"
 ---
+The Rockefeller Archive Center and the City College of New York partner to run an internship program for City College undergraduates.
+
 ## History of the Internship Program 
 
 The RAC-CCNY Internship Program is designed to introduce undergraduates to the archival profession and to empower diverse voices in the field. We strive to make our interns know their perspectives are valued and that they play an important role as staff members. 
