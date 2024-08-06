@@ -1,5 +1,5 @@
-# RAC-CCNY Internship Program Overview
-Overview of the internship program.
+# Internship Program Overview
+The Rockefeller Archive Center and the City College of New York partner to run an internship program for City College undergraduates.
 
 ## Accessing the documentation
 This content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
